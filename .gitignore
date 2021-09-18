@@ -1,0 +1,6 @@
+/.cache
+*/.ipy*
+/.ipy*
+/.jupyter
+/.local
+datasets/games.csv
